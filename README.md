@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24265396/README.md)
+[README.md](https://github.com/user-attachments/files/24265410/README.md)
 # BaiYaoDuel 插件
 
 一個用於 Minecraft Paper 1.21.8 的決鬥插件。
@@ -17,14 +17,6 @@
 1. 將編譯後的 `BaiYaoDuel-1.0.0.jar` 放入伺服器的 `plugins` 資料夾
 2. 確保已安裝 `Multiverse-Core` 插件（用於世界傳送）
 3. 重啟伺服器
-
-## 編譯
-
-使用 Maven 編譯：
-
-```bash
-mvn clean package
-```
 
 編譯後的 JAR 文件將在 `target` 資料夾中。
 
